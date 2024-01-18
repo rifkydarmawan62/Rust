@@ -1,0 +1,1 @@
+D:\Unduhan\github.com\rifkydarmawan62\Rust\Dasar-Dasar\deklarasi_variabel_dan_tipe_data\target\debug\deklarasi_variabel_dan_tipe_data.exe: D:\Unduhan\github.com\rifkydarmawan62\Rust\Dasar-Dasar\deklarasi_variabel_dan_tipe_data\src\main.rs
